@@ -65,4 +65,4 @@ container.addEventListener("click", setImage);
 
 ### result
 
-<img src="./missionResult.gif">
+<img src="./client/missionResult.gif">
