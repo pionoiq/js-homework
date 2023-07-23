@@ -37,7 +37,7 @@
 
 ---
 
-### 구현 과정
+### 구현
 
 ```js
 function el(selector) {
@@ -83,3 +83,7 @@ const setNameText = (target, name) => {
 
 container.addEventListener("click", setImage);
 ```
+
+### result
+
+<img src="./missionResult.gif">
